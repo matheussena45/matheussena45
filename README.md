@@ -2,7 +2,7 @@
 
 # Hey 👋 What's Up? I'm Matheus
 
-### Front-End Developer | Focusing on Full Stack
+### Front-End Developer | JavaScript & React
 
 <br/>
 
